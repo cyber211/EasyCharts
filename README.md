@@ -22,7 +22,7 @@
 
 # 配套书籍
 <p>
-    <img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/EV.jpg" alt="微信公众号"  width="250">
+    <img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/EV.jpg" alt="微信公众号"  width="350">
 </p>
 
 ---
