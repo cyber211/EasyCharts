@@ -21,7 +21,10 @@
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e5.png)
 
 # 配套书籍
-![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/EV.jpg)
+<p>
+    <img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/EV.jpg" alt="微信公众号"  width="250">
+</p>
+
 ---
 ### 如有问题，可以联系EasyCharts开发者微信：EasyCharts
 <p>
