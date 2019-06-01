@@ -20,6 +20,8 @@
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e4.png)
 ![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/e5.png)
 
+# 配套书籍
+![image](https://github.com/EasyChart/EasyCharts/blob/master/Pics/EV.jpg)
 ---
 ### 如有问题，可以联系EasyCharts开发者微信：EasyCharts
 <p>
@@ -31,4 +33,6 @@
 <p>
     <img src="https://github.com/EasyChart/EasyCharts/blob/master/Pics/WPN.jpg" alt="微信公众号"  width="250" height="250">
 </p>
+
+
 
